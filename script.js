@@ -35,7 +35,7 @@ add.addEventListener("mouseover", function() {
 
 
   img.addEventListener("mouseover", function() {
-    this.style.transform = "scale(1.1)"; // Increase size by 20%
+    this.style.transform = "scale(1.07)"; // Increase size by 20%
     this.style.borderRadius="40px";
     this.border="4px"
   });
